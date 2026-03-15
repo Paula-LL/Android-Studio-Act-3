@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scrolls and Calcs</string>
+    <string name="hScroll">Horizontal Scroll</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="relative_lyout">Relative Lyout</string>
+    <string name="grid_layout">Grid Layout</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="calculator">Calculator</string>
+    <string name="relative_layout">Relative Layout</string>
+</resources>
